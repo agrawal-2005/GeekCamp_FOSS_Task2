@@ -70,3 +70,6 @@ Movie dialogue: Tu samjha? Nahi tu nhi samjha
 
 Name : Piyush Tiwari , Enrolment no: IIT2022020
 movie dialogue:  Hum tum mein itne ched karenge ... ki confuse ho jaoge ki saans kahan se le ... aur paadein kahan se
+
+Name-Shrutika Rathi ,Enrollment no:IIT2022228
+Movie dialogue:We all have 2 lives..... the second one starts when we know there is only ONE left....
