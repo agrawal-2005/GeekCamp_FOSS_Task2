@@ -362,6 +362,10 @@ VIHAAN MARATHEY , IIT2022043
 Name : Piyush Tiwari , Enrolment no: IIT2022020
 movie dialogue:  Hum tum mein itne ched karenge ... ki confuse ho jaoge ki saans kahan se le ... aur paadein kahan se
 
+
+Name-Shrutika Rathi ,Enrollment no:IIT2022228
+Movie dialogue:We all have 2 lives..... the second one starts when we know there is only ONE left....
+
 Vatsal Bhuva, IIT2022004
 Do not go gentle into that good night; Old age should burn and rave at close of day. Rage, rage against the dying of the light. (Interstellar)
 
@@ -376,7 +380,6 @@ Shalini Chongdar, IEC2022037
 
 Archana Patel IEC2022051
 "Go with the flow"
-
 
 Disha Soni, IIT2022260
 "Maari chhori chhoro se kam hai ke"
